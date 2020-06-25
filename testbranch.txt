@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 alo
 hello
 branch1
+=======
+alo	
+hello	
+day là branch2
+>>>>>>> branch2
